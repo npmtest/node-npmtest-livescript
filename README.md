@@ -1,6 +1,6 @@
 # npmtest-livescript
 
-#### test coverage for  [livescript (v1.5.0)](http://livescript.net)  [![npm package](https://img.shields.io/npm/v/npmtest-livescript.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-livescript) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-livescript.svg)](https://travis-ci.org/npmtest/node-npmtest-livescript)
+#### basic test coverage for  [livescript (v1.5.0)](http://livescript.net)  [![npm package](https://img.shields.io/npm/v/npmtest-livescript.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-livescript) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-livescript.svg)](https://travis-ci.org/npmtest/node-npmtest-livescript)
 
 #### LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming,
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-livescript/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-livescript/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-livescript/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-livescript/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-livescript/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-livescript/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-livescript/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-livescript/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-livescript/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-livescript/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-livescript/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-livescript/build/coverage.html/index.html)
 
